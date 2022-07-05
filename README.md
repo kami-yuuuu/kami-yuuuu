@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kami-yuuuu
-- 👀 I’m interested in python, javascript, delphi
+- 👀 I’m interested in python, javascript, Rust
 - 🌱 I’m currently learning python, gitcommand
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
